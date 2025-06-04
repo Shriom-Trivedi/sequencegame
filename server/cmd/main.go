@@ -6,7 +6,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"sequencegame/room"
+	"sequencegame/server/room"
 )
 
 func main() {

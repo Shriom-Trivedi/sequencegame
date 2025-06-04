@@ -1,4 +1,4 @@
-module github.com/yourusername/sequencegame
+module sequencegame
 
 go 1.20
 

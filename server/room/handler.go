@@ -7,7 +7,7 @@ import (
 
     "github.com/gorilla/mux"
     "github.com/gorilla/websocket"
-    "sequencegame/game"
+    "sequencegame/server/game"
 )
 
 var upgrader = websocket.Upgrader{

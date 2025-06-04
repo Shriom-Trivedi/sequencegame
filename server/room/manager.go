@@ -3,7 +3,7 @@ package room
 import (
 	"sync"
 
-	"sequencegame/game"
+	"sequencegame/server/game"
 )
 
 type Room struct {
